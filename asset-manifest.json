@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://babybunn.github.io/csb-plgopg/static/js/main.45867dc9.chunk.js",
+    "main.js.map": "https://babybunn.github.io/csb-plgopg/static/js/main.45867dc9.chunk.js.map",
+    "runtime-main.js": "https://babybunn.github.io/csb-plgopg/static/js/runtime-main.47011169.js",
+    "runtime-main.js.map": "https://babybunn.github.io/csb-plgopg/static/js/runtime-main.47011169.js.map",
+    "static/js/2.1db31354.chunk.js": "https://babybunn.github.io/csb-plgopg/static/js/2.1db31354.chunk.js",
+    "static/js/2.1db31354.chunk.js.map": "https://babybunn.github.io/csb-plgopg/static/js/2.1db31354.chunk.js.map",
+    "index.html": "https://babybunn.github.io/csb-plgopg/index.html",
+    "precache-manifest.81d764af51c4470db741a7d2092a94b4.js": "https://babybunn.github.io/csb-plgopg/precache-manifest.81d764af51c4470db741a7d2092a94b4.js",
+    "service-worker.js": "https://babybunn.github.io/csb-plgopg/service-worker.js",
+    "static/js/2.1db31354.chunk.js.LICENSE.txt": "https://babybunn.github.io/csb-plgopg/static/js/2.1db31354.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47011169.js",
+    "static/js/2.1db31354.chunk.js",
+    "static/js/main.45867dc9.chunk.js"
+  ]
+}
